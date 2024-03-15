@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Gemstones&display=swap');
+
+.movieList {
+  display: grid;
+  grid-template-columns:1fr 1fr; 
+  gap: 80px;
+ 
+}
+
+.movie-container {
+  padding: 20px;
+  transition: transform 0.3s ease;
+}
+.movie-container:hover {
+  transform: scale(1.05); 
+  
+}
+.movie-poster{
+  margin-top: 40px;
+  width: 400px;
+  height: 600px;
+  gap: 5px;
+  transition: 0.3;
+  
+  
+}
+.movie-specs{
+  font-size: 20px;
+  font-weight: 400;
+  padding-left: 20px;
+  text-transform: uppercase;
+}
+.movie-specs h2{
+  color: rgb(13, 17, 17);
+  font-family:Rubik Gemstones ;
+
+}
+.movie-rating{
+  display: flex;
+  padding-left: 320px;
+}
+.movie-summary{
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  }
+
+.project{
+  background:rgb(184, 146, 169);
+}
+.textfield{
+  margin-top:50px ;
+  padding-bottom: 50px;
+}
