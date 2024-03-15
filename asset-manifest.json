@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/addingmovielist/static/css/main.974baa0d.css",
+    "main.js": "/addingmovielist/static/js/main.a4119b0e.js",
+    "static/js/453.68693753.chunk.js": "/addingmovielist/static/js/453.68693753.chunk.js",
+    "static/media/logo.svg": "/addingmovielist/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/addingmovielist/index.html",
+    "main.974baa0d.css.map": "/addingmovielist/static/css/main.974baa0d.css.map",
+    "main.a4119b0e.js.map": "/addingmovielist/static/js/main.a4119b0e.js.map",
+    "453.68693753.chunk.js.map": "/addingmovielist/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.974baa0d.css",
+    "static/js/main.a4119b0e.js"
+  ]
+}
